@@ -85,3 +85,6 @@ WSV-EDAD
 | Uso en cálculos | Sí           | No                 | No                        |
 | Suprime ceros   | No           | Sí                 | N/A                       |
 | Uso principal   | Cálculos     | Reportes / Display | Texto, nombres, códigos   |
+
+## ENTRAR A SPOOL
+=3.8
