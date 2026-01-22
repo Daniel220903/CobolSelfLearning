@@ -88,3 +88,6 @@ WSV-EDAD
 
 ## ENTRAR A SPOOL
 =3.8
+
+## Lectura estructuracion de reportes
+https://platzi.com/cursos/cobol-practico/detalles-de-las-variables-y-orden-del-proyecto/
